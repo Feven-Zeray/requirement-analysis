@@ -24,3 +24,22 @@ Identifies potential issues early in the project, preventing costly mistakes dur
 
 Improves Quality and User Satisfaction:
 Clear and well-defined requirements ensure that the final software meets business needs and user expectations.
+
+#Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves several key activities to ensure the project is well-defined and aligned with stakeholder needs:
+
+Requirement Gathering:
+Collecting information from stakeholders through interviews, surveys, workshops, and observation to understand their needs and expectations.
+
+Requirement Elicitation:
+Refining and exploring gathered requirements using techniques like brainstorming, prototyping, and use case analysis to clarify unclear or hidden requirements.
+
+Requirement Documentation:
+Creating detailed documents such as requirement specifications, user stories, and use cases to formally capture the requirements.
+
+Requirement Analysis and Modeling:
+Organizing and analyzing requirements to identify dependencies, conflicts, and priorities. Creating models or diagrams to visualize system structure and interactions.
+
+Requirement Validation:
+Reviewing requirements with stakeholders to ensure accuracy, completeness, and alignment with business objectives before moving to design and development.
