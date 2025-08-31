@@ -43,3 +43,27 @@ Organizing and analyzing requirements to identify dependencies, conflicts, and p
 
 Requirement Validation:
 Reviewing requirements with stakeholders to ensure accuracy, completeness, and alignment with business objectives before moving to design and development.
+#Types of Requirements
+Functional Requirements
+
+Functional requirements define what the system should do — the features and functions it must provide. Examples for a booking management system include:
+
+Users can search for available properties.
+
+Users can register and log in to the system.
+
+Users can book a property and receive confirmation.
+
+Admins can add, update, or remove property listings.
+
+Non-functional Requirements
+
+Non-functional requirements describe how the system should perform and define qualities such as usability, reliability, and performance. Examples include:
+
+The system should load pages within 2 seconds.
+
+The system must be secure, protecting user data.
+
+The system should handle up to 1,000 concurrent users.
+
+The interface should be user-friendly and responsive on mobile and desktop.
