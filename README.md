@@ -67,3 +67,31 @@ The system must be secure, protecting user data.
 The system should handle up to 1,000 concurrent users.
 
 The interface should be user-friendly and responsive on mobile and desktop.
+
+#Use Case Diagrams
+
+A Use Case Diagram is a visual representation that shows how users (actors) interact with a system and the functions (use cases) the system provides. Use Case Diagrams help to:
+
+Understand system requirements visually.
+
+Identify all interactions between users and the system.
+
+Clarify the scope of the system for stakeholders and developers.
+
+Example Use Case Diagram for Booking Management System:
+
+Actors: User, Admin
+
+Use Cases:
+
+Search Property
+
+Register / Login
+
+Book Property
+
+Manage Listings (Admin)
+
+Diagram:
+
+![Booking Management Use Case Diagram](alx-booking-uc.png)
