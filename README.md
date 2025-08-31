@@ -95,3 +95,34 @@ Manage Listings (Admin)
 Diagram:
 
 ![Booking Management Use Case Diagram](alx-booking-uc.png)
+
+# Acceptance Criteria
+
+**Acceptance Criteria** are specific conditions that a software product must meet to be accepted by a user, customer, or stakeholder. They define **what needs to be done** and **how success is measured**, ensuring that the delivered system matches the expected requirements.
+
+**Importance of Acceptance Criteria in Requirement Analysis:**
+
+- Provides a clear definition of done for features.
+- Ensures alignment between stakeholders, developers, and testers.
+- Helps in creating test cases to verify functionality.
+- Reduces ambiguity in requirements and prevents misunderstandings.
+
+**Example: Acceptance Criteria for Checkout Feature in Booking Management System**
+
+1. **Given** a user has selected a property to book,  
+   **When** they click on the "Checkout" button,  
+   **Then** the system should display the payment form with the correct property details and total amount.
+
+2. **Given** the user enters valid payment details,  
+   **When** they submit the payment,  
+   **Then** the booking confirmation should be displayed and a confirmation email sent.
+
+3. **Given** the user enters invalid payment details,  
+   **When** they submit the payment,  
+   **Then** an error message should appear, and the payment should not be processed.
+
+4. **Given** the user has successfully booked a property,  
+   **When** they revisit their bookings page,  
+   **Then** the booked property should be listed with the correct details.
+
+
