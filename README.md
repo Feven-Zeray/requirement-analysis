@@ -11,3 +11,16 @@ Importance in the SDLC:
 - Risk Reduction: Identifies potential issues early to prevent costly mistakes.
 - Guidance: Sets the foundation for design, development, and testing.
 - Quality Assurance: Ensures the final software meets user expectations and business requirements.
+  
+#Why is Requirement Analysis Important?
+
+Requirement Analysis is critical in the Software Development Life Cycle (SDLC) because it ensures the project is well-planned, reduces errors, and delivers value to users. Key reasons include:
+
+Clarifies Project Goals:
+Helps all stakeholders understand what the system must achieve, ensuring everyone is aligned.
+
+Reduces Development Risks:
+Identifies potential issues early in the project, preventing costly mistakes during coding or testing.
+
+Improves Quality and User Satisfaction:
+Clear and well-defined requirements ensure that the final software meets business needs and user expectations.
